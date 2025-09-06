@@ -27,6 +27,8 @@
    
    ![Тут](./IMAGES/apr_jun_cust_no_out.png)
 
+   ![Тут](./IMAGES/jul_mar_cust_no_out.png)
+
 
 3) Убираем выбросы, используя понятие boxplot (ящик с усами). Получаем следующее распределение:
 
