@@ -1,0 +1,9 @@
+SELECT bikes.products.product_id,
+	bikes.products.category_id, 
+	bikes.brands.brand_id,
+	bikes.categories.category_name,
+	bikes.brands.brand_name
+	FROM bikes.products
+JOIN bikes.categories ON bikes.categories.category_id = bikes.products.category_id 
+JOIN bikes.brands ON bikes.brands.brand_id = bikes.products.brand_id
+ORDER BY product_id ASC
