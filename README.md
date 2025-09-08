@@ -16,6 +16,7 @@
 Для анализа использовались [эти данные](./DATA/categories_brands.csv), выгруженные с помощью [этого скрипта](./MySQL/categories_brands_sql.sql):
 
 Построим круговую диаграмму, выглядит она так:
+
 ![Скриншот](./IMAGES/cateogories_bikes.png)
 
 ### Бренды
