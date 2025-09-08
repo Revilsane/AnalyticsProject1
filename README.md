@@ -25,6 +25,8 @@
 
 Построим на гистограмму данных:
 
+![скриншот](./IMAGES/hist_time_orders.png)
+
 ### Категории товаров
 Для анализа использовались [эти данные](./DATA/categories_brands.csv), выгруженные с помощью [этого скрипта](./MySQL/categories_brands_sql.sql).
 
