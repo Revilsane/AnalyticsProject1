@@ -19,6 +19,8 @@
 
 ![Скриншот](./IMAGES/cateogories_bikes.png)
 
+Самая популярная категория - Cruisers Bicycles, дальше примерно в равных пропорциях 3 категории - Mountain Bikes, Road Bikes, Children Bicycles
+
 ### Бренды
 
 ### Магазины
